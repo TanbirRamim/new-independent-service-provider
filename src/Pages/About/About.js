@@ -3,16 +3,18 @@ import Tanbir from "../../Images/Tanbir.jpg";
 
 const About = () => {
   return (
-    <div className="App">
-      <img
-        className="  rounded-circle"
-        style={{ height: "400px", width: "400px" }}
-        src={Tanbir}
-        alt=""
-        srcset=""
-      />
-      <h1>Tanbir Hossain Ramim</h1>
-      <p>
+    <div className="container">
+      <div className="d-flex flex-column align-items-center justify-content-center">
+        <img
+          className="  rounded-circle"
+          style={{ height: "400px", width: "400px" }}
+          src={Tanbir}
+          alt=""
+          srcset=""
+        />
+        <h1>Tanbir Hossain Ramim</h1>
+      </div>
+      <h5 className="bg-dark text-white">
         Hello, Everyone. I'm a junior front end developer, trying to become a
         full stack one. My goal is to do something very significant within 2022.
         The developing journey I started in 31 December, 2021.. I want to make
@@ -21,7 +23,7 @@ const About = () => {
         environment. Anyone with a github account can access my works, except
         some confidential projects. Do pray for me, I will make you proud one
         day!{" "}
-      </p>
+      </h5>
     </div>
   );
 };
