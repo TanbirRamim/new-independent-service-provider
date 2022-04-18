@@ -18,9 +18,9 @@ const Checkout = () => {
           clients that are seeking you, fill your programs and courses with ease
           and have more time for self-care and relaxation. Yet, determining a
           niche is perhaps one of the most perplexing and stressful decisions
-          for a coach. Join Master Coach Karen Cappello to learn the simple
-          steps to defining a coaching niche that will allow you to have a
-          thriving and profitable business with clients that you truly love to
+          for a coach. Join Master Coach Tanbir Hossain Ramim to learn the
+          simple steps to defining a coaching niche that will allow you to have
+          a thriving and profitable business with clients that you truly love to
           work with.
         </Card.Text>
       </Card.Body>
