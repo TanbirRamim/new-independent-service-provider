@@ -3,13 +3,14 @@ import { FaFacebook } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
 import { FaLinkedinIn } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
+import "./Footer.css";
 
 const Footer = () => {
   const today = new Date();
   const year = today.getFullYear();
   return (
-    <div>
-      <ul className="social-icons d-flex justify-content-center align-items-center text-white">
+    <div className="bg-black p-5">
+      <ul className="  d-flex justify-content-center align-items-center  text-white  mx-3">
         <li>
           <a>
             <FaFacebook></FaFacebook>
@@ -32,7 +33,7 @@ const Footer = () => {
         </li>
       </ul>
       <p className="text-white text-center my-3 fs-5">
-        Copyright© . Tanbir Ramim {year}
+        Copyright© Tanbir Ramim {year}
       </p>
     </div>
   );

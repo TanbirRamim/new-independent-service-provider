@@ -1,4 +1,5 @@
 import React from "react";
+import ExtraSection from "../ExtraSection/ExtraSection";
 
 import Services from "../Services/Services";
 import Footer from "../Shared/Footer/Footer";
@@ -10,6 +11,7 @@ const Home = () => {
       <img src={banner} style={{ width: "100%" }} alt="" srcset="" />
 
       <Services></Services>
+      <ExtraSection></ExtraSection>
     </div>
   );
 };
