@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Career Choice",
+        "price": "400",
+        "description": "the selection of a vocation, usually on the basis of such factors as parental guidance, vocational guidance, identification with admired figures, trial or part-time jobs, training opportunities, personal interests, and ability tests.",
+        "img": "https://img.freepik.com/free-vector/pensive-businessman-making-decision_74855-5283.jpg?t=st=1650273085~exp=1650273685~hmac=6be38e167e97797d72f4ebaca6060864c16a870a8f4d0943f646291e5f86f0d9&w=1380"
+    },
+    {
+        "id": 2,
+        "name": "Career Development",
+        "price": "600",
+        "description": "Career development is the process of choosing a career, improving your skills, and advancing along a career path. It's a lifelong process of learning and decision-making that brings you closer to your ideal job, skill set, and lifestyle.",
+        "img": "https://img.freepik.com/free-vector/business-leader-standing-arrow-holding-flag-flat-vector-illustration-cartoon-people-training-doing-business-plan-leadership-victory-challenge-concept_74855-9812.jpg?t=st=1650273189~exp=1650273789~hmac=1b5b8627acdd3a82e441a60c0ad4e4d7fc685048439d09053fb08e845aec3a4c&w=996"
+    },
+    {
+        "id": 3,
+        "name": "Career Change",
+        "price": "250",
+        "description": "Changing career is a decision that shouldn't be taken lightly, but whatever your reasons for wanting to do something different, a carefully planned move can turn out to be incredibly rewarding.",
+        "img": "https://img.freepik.com/free-vector/business-people-empolyee-choosing-new-career-direction-arrow-with-target_335657-3302.jpg?t=st=1650273248~exp=1650273848~hmac=d6cef71997d39f7789915825ad594e2692fe7029c70a814f5767da92c10cccb3&w=1380"
+    },
+    {
+        "id": 4,
+        "name": "Career Advice",
+        "price": "780",
+        "description": "Figuring out what you're meant to do with your life isn't easy. Plus, your career path is bound to take a few detours as you progress in your professional development. Not sure which next step to take? Have a look at these articles to help you plot and navigate a rock-solid career path.",
+        "img": "https://img.freepik.com/free-vector/businesswoman-team-leader-boss-stand-out-banner_48369-20166.jpg?w=1380"
+    },
+    {
+        "id": 5,
+        "name": "Career Guidance",
+        "price": "700",
+        "description": "Career guidance can be defined as a comprehensive, developmental program designed to assist individuals in making and implementing informed educational and occupational choices. In simple words, it is a journey on which people develop to make mature and informed decisions.",
+        "img": "https://img.freepik.com/free-vector/people-choosing-path-way-life-direction-three-people-pick-out-alternatives-easy-medium-hard-road-pointers-management-guidance-metaphor-vector-illustration-faceless-characters_89224-6347.jpg?w=1380"
+    },
+    {
+        "id": 6,
+        "name": "Versatile Career Movement",
+        "price": "1000",
+        "description": "You need to be versatile. Today is not a day to make a case for focus. There’s always time for using your lens to burn your paper with some sunlight but we need to create some space for those who will burn theirs with some gasoline while adding a bit of firewood and some tripwire for a colorful flame. Fire is fire after all. As long as it burns!",
+        "img": "https://img.freepik.com/free-vector/goal-achievement-teamwork-business-concept-career-growth-cooperation-development-project_107791-29.jpg?1&t=st=1650273491~exp=1650274091~hmac=25dcc61d999642b5fcdb491fc7718cc559ccc4154b371353278a5369bc649c5a&w=996"
+    }
+]
