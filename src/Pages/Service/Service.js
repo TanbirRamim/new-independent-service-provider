@@ -24,7 +24,6 @@ const Service = ({ service }) => {
           <button
             onClick={() => navigateToServiceDetail(id)}
             className="btn btn-primary mx-auto w-50"
-            href="#"
           >
             learn more
           </button>
